@@ -32,7 +32,7 @@
 
 
 ### Tham khảo
-- Tài liệu chi tiết về chương trình [ở đây](link báo cáo)
+- Tài liệu chi tiết về chương trình [ở đây](https://drive.google.com/file/d/1FavFZgTSjQqYRcxB4FIELF6w-Dp0Jg3q/view?usp=sharing)
 - [How to install a Chrome extension without using the Chrome Web Store](https://blog.hunter.io/how-to-install-a-chrome-extension-without-using-the-chrome-web-store-31902c780034)
 - Tìm hiểu về  [**HTTP Cookies**](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies).
 - Video demo chương trình ở [đây]() : 
