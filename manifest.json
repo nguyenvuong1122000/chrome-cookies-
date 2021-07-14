@@ -19,7 +19,6 @@
       "128": "images/icon-128.png",
       "16": "images/icon-16.png"
    },
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuBbQU73B0+AFt+qbDA6wZE3bLyFbIPqPAjsEvLwb3cXXXXL/Bc8pzBxbfsqVWtEGpjQ8PD0CbDAsmyuAxFSR12IMA2h/TA4MzbrcBecjKoE71UXGosOIlEpkVi7W//x0W669CX26BTBE0kSdDQojaa03osHcRxRYyK66KGP9Qkt92PRzDLeOMLuLc+9KCD1A6KlylvMGKO0lg1I+U+2Crh/YfbWN3JqwMyXbDIOIl7EVlwv3qMob01i4OU9FdkPbUboNDK5FYv1DSunX617MEN8bOOCb730V3OMCSjt6MpJZ1BP9O4vMtHnlbc9fNua8kKMMmSJBW4UX5dBlnBiGfwIDAQAB",
    "manifest_version": 2,
    "name": "__MSG_appName__",
    "offline_enabled": true,
