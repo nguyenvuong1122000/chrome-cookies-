@@ -1,5 +1,5 @@
 {
-   "author": "Nhóm cho",
+   "author": "Nhóm chờ rom",
    "background": {
       "scripts": [ "scripts/background.js" ]
    },
@@ -12,7 +12,7 @@
       "default_title": "__MSG_appName__"
    },
    "content_security_policy": "script-src 'self' 'unsafe-eval' https://www.google-analytics.com https://ssl.google-analytics.com https://ajax.googleapis.com https://cdnjs.cloudflare.com; object-src 'self'",
-   "default_locale": "en",
+   "default_locale": "vi",
    "description": "__MSG_appDescription__",
    "homepage_url": "https://www.facebook.com/nguyenvuong1122000/",
    "icons": {
