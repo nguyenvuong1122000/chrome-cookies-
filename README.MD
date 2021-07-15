@@ -34,7 +34,6 @@
 ### Tham khảo
 - Tài liệu chi tiết về chương trình [ở đây](https://drive.google.com/file/d/1FavFZgTSjQqYRcxB4FIELF6w-Dp0Jg3q/view?usp=sharing)
 - Tìm hiểu về  [**HTTP Cookies**](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies).
-- Video demo chương trình ở [đây]() : 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+- Video demo chương trình ở [đây](https://drive.google.com/file/d/1R0Z3gQr9AR4kKldXQIxgb-ckjeX1_rO9/view?usp=sharing) : 
 
 
