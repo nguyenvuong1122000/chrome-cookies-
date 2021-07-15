@@ -23,5 +23,5 @@
    "name": "__MSG_appName__",
    "offline_enabled": true,
    "permissions": [ "cookies", "http://*/*", "https://*/*", "tabs", "storage" ],
-   "version": "0.0.6"
+   "version": "0.0.0"
 }
